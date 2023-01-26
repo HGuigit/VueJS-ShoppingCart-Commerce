@@ -1,4 +1,7 @@
-# project5-shopping-bag-finished
+# A simple shopping cart and e-commerce coded in vue-js
+
+#### -> Projeto simples para aprendizado em VueJs utilizando conceitos avançados como Vuex e Vue Router
+#### -> Simple Project for learning VueJS using advanced Concepts like Vuex and Vue Router
 
 ## Project setup
 ```
