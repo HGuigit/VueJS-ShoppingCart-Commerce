@@ -30,6 +30,12 @@ yarn lint
 
 ### Imagens do Projeto // Project Images
 
+<<<<<<< HEAD
 <img src="./imgs/MainScreen.png" alt="Alt text" title="Main Screen" style="display: inline-block; margin:0 auto; max-width: 300px")
 
 <img src="./imgs/Carrinho.png" alt="Alt text" title="Carrinho" style="display: inline-block; margin:0 auto; max-width: 300px")
+=======
+![alt text]('./imgs/MainScreen.png')
+
+![alt text]('./imgs/Carrinho.png')
+>>>>>>> a2e996f6ba7624b9b2a971f4500b9681b65a0c91
