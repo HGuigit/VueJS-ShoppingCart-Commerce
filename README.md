@@ -30,6 +30,6 @@ yarn lint
 
 ### Imagens do Projeto // Project Images
 
-<img src="https://github.com/HGuigit/VueJS-ShoppingCart-Commerce/blob/master/imgs/Carrinho.png" alt="Alt text" title="Main Screen" style="display: inline-block; margin:0 auto; max-width: 300px")
+<img src="https://github.com/HGuigit/VueJS-ShoppingCart-Commerce/blob/master/imgs/Carrinho.png" alt="Alt text" title="Main Screen" style="display: inline-block; margin:0 auto; max-width: 300px"/>
 
-<img src="https://github.com/HGuigit/VueJS-ShoppingCart-Commerce/blob/master/imgs/MainScreen.png" alt="Alt text" title="Carrinho" style="display: inline-block; margin:0 auto; max-width: 300px")
+<img src="https://github.com/HGuigit/VueJS-ShoppingCart-Commerce/blob/master/imgs/MainScreen.png" alt="Alt text" title="Carrinho" style="display: inline-block; margin:0 auto; max-width: 300px"/>
